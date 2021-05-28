@@ -12,14 +12,13 @@
 <title>Dashboard</title>
 
 
-<link rel="stylesheet"
-	href="webjars/bootstrap/4.4.1/css/bootstrap.min.css">
-<link href="webjars/font-awesome/5.12.0/css/all.css" rel="stylesheet" />
-<link href="./resources/css/bootstrap-table.css" rel="stylesheet" />
+<link rel="stylesheet"href="webjars/bootstrap/4.4.1/css/bootstrap.min.css"/>
+<link href="webjars/font-awesome/5.12.0/css/all.css" rel="stylesheet"/>
+<link href="/resources/css/bootstrap-table.css" rel="stylesheet"/>
 <!-- Custom styles for this template -->
 
-<link rel="stylesheet" href="./resources/css/sidebar.css">
-<link href="./resources/css/dashboard.css" rel="stylesheet">
+<link rel="stylesheet" href="/resources/css/sidebar.css"/>
+<link href="/resources/css/dashboard.css" rel="stylesheet"/>
 
 </head>
 
@@ -41,9 +40,7 @@
 						<ul class="list-unstyled components mb-5">
 						
 							<li><a href="./" class="active">Dashboard</a></li>
-							<li><a href="./visualizzaAziendeConvenzionateStudente">Aziende convenzionate</a></li>
-							<li><a href="./visualizzaDomandeTirocinioInoltrateStudente">Domande di tirocinio</a></li>
-							<li><a href="./visualizzaTirociniInCorsoStudente">Tirocini in corso</a></li>
+							<li><a href="./map">Geolocalizzazione</a></li>
 						</ul>
 					</div>
 				</nav>
@@ -53,7 +50,7 @@
 					<div class="container">
 
 						<h4 class="h4-spazio">
-							<span class="my-4 header">Benvenuto ${utente.nome} nella tua area personale</span>
+							<span class="my-4 header">Progetto database 2 Ferrara Spinelli</span>
 						</h4>
 						<div class="card-deck">
   							<div class="card border-dark bordo-carta dimensione-carta">
