@@ -26,6 +26,7 @@ public class Biblioteca {
     private String Fax;
     private String Denominazione;
     private String Provincia;
+    private int VolumiDisponibili;
 
     public Biblioteca(){
 
@@ -151,6 +152,14 @@ public class Biblioteca {
         Provincia = provincia;
     }
 
+    public int getVolumiDisponibili() {
+        return VolumiDisponibili;
+    }
+
+    public void setVolumiDisponibili(int volumiDisponibili) {
+        VolumiDisponibili = volumiDisponibili;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -182,6 +191,7 @@ public class Biblioteca {
                 ", Fax='" + Fax + '\'' +
                 ", Denominazione='" + Denominazione + '\'' +
                 ", Provincia='" + Provincia + '\'' +
+                ", Volumi Disponibili=" + VolumiDisponibili  +
                 '}';
     }
 }

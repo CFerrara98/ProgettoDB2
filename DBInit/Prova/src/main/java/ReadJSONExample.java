@@ -2,6 +2,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Random;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -10,7 +11,8 @@ import org.json.simple.parser.ParseException;
 
 public class ReadJSONExample
 {
-    @SuppressWarnings("unchecked")
+
+    private static final Random r = new Random();
     public static void main(String[] args)
     {
         //JSON parser object to parse read file
@@ -90,6 +92,10 @@ public class ReadJSONExample
             bib.put("Url", " Non Disponibile");
 
         }
+
+
+
+        bib.put("VolumiDisponibili", r.nextInt(5000)+200);
 
         bib.remove("Fid");
         bib.remove("CodiceIsil");

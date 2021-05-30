@@ -29,7 +29,7 @@ public class MapController {
     public @ResponseBody String getDomainInJsonFormat(@RequestParam String ipAddress) {
 
         if(ipAddress == null || ipAddress.equals("")) return "";
-        
+
         ObjectMapper mapper = new ObjectMapper();
 
         ServerLocation location = serverLocationService.getLocation(ipAddress);

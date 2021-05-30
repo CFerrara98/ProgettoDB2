@@ -150,7 +150,7 @@ th, .valuta {
 	margin: 0px !important;
 }
 
-/*arrow menù drop*/
+/*arrow menï¿½ drop*/
 .dropdown-menu-arrow {
 	top: -25px;
 	left: 50%;
@@ -189,8 +189,14 @@ th, .valuta {
 
 .testo-tabella {
 	font-size: 18px;
-	text-align: center;
+	text-align: justify;
 	vertical-align: middle !important;
+}
+
+
+.testo-denominazione {
+	max-width: 75ch;
+	overflow: hidden;
 }
 
 .custom-drop-menu {
