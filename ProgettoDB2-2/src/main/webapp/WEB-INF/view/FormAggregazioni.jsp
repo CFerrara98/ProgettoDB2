@@ -93,7 +93,7 @@
                                     <br/>
                                     <select class="form-control" aria-label=".form-select-lg example" name="MatchOperation" id="MatchingSelect">
                                         <option selected value="NessunMatching">Nessun matching</option>
-                                        <option selected value="VolumiDisponibili">Volumi disponibili</option>
+                                        <option value="VolumiDisponibili">Volumi disponibili</option>
                                         <option value="Indirizzo">Indirizzo</option>
                                         <option value="InfoMancanti">Info mancanti</option>
 
@@ -129,8 +129,9 @@
 <script>
     $(document).ready(function() {
 
-        $("#Volumi").show();
+        $("#Volumi").hide();
         $("#Indirizzo").hide();
+
 
         $('#MatchingSelect').change(function () {
             if (this.value == 'VolumiDisponibili') {
@@ -140,6 +141,9 @@
                 $("#Volumi").hide();
                 $("#Indirizzo").show();
             } else if (this.value == 'InfoMancanti') {
+                $("#Volumi").hide();
+                $("#Indirizzo").hide();
+            } else if (this.value == 'NessunMatching') {
                 $("#Volumi").hide();
                 $("#Indirizzo").hide();
             }
