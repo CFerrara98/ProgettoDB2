@@ -35,13 +35,7 @@
 						</button>
 					</div>
 					<div class="p-4 pt-5">
-						
-						
-						<ul class="list-unstyled components mb-5">
-						
-							<li><a href="./" class="active">Dashboard</a></li>
-							<li><a href="./map">Geolocalizzazione</a></li>
-						</ul>
+						<jsp:include page="menu.jsp" />
 					</div>
 				</nav>
 

@@ -24,13 +24,7 @@
                     </button>
                 </div>
                 <div class="p-4 pt-5">
-
-
-                    <ul class="list-unstyled components mb-5">
-
-                        <li><a href="./" class="active">Dashboard</a></li>
-                        <li><a href="./map">Geolocalizzazione</a></li>
-                    </ul>
+                    <jsp:include page="menu.jsp" />
                 </div>
             </nav>
             <div id="content" class="p-4 p-md-5 pt-5">
@@ -58,6 +52,10 @@
     </div>
 </div>
 
+<script src="webjars/jquery/3.3.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="./resources/js/bootstrap-table.min.js"></script>
+<script src="./resources/js/sidebar.js"></script>
 
 
 <script>
