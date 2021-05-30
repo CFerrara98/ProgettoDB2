@@ -3,12 +3,15 @@ package com.example.progettodb22.Services;
 import com.example.progettodb22.entity.Biblioteca;
 import com.example.progettodb22.repository.BibliotecaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.aggregation.*;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
+
+import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 
 @Service
 public class BibliotecaService {
@@ -101,5 +104,114 @@ public class BibliotecaService {
         repository.findAll().forEach((biblioteca) -> {
             System.out.println(biblioteca);
         });
+    }
+
+    public AggregationResults<org.bson.Document> findAggregate(String groupselect, String groupoperation, String order, String matchoperation, String indirizzo, Integer volumi) {
+
+
+        System.out.println("service" + volumi + " "+ indirizzo + ""+ matchoperation);
+        GroupOperation group = group(groupselect).sum("VolumiDisponibili").as(groupoperation);
+        SortOperation sortByCount = null;
+        Aggregation aggr;
+        MatchOperation match = null;
+
+        switch (groupoperation){
+            case "somma": {
+                group = group(groupselect).sum("VolumiDisponibili").as(groupoperation);
+                break;
+
+            }
+
+            case "media": {
+                group = group(groupselect).avg("VolumiDisponibili").as(groupoperation);
+                break;
+            }
+
+            case "minimo": {
+                group = group(groupselect).min("VolumiDisponibili").as(groupoperation);
+                break;
+            }
+
+            case "massimo": {
+                group = group(groupselect).max("VolumiDisponibili").as(groupoperation);
+                break;
+            }
+
+            case "primo": {
+                group = group(groupselect).first("VolumiDisponibili").as(groupoperation);
+                break;
+            }
+
+            case "ultimo": {
+                group = group(groupselect).last("VolumiDisponibili").as(groupoperation);
+                break;
+            }
+
+        }
+
+
+
+        switch (order){
+            case "NessunOrdinamento": {
+                break;
+            }
+
+            case "OrdinamentoCrescente": {
+                sortByCount = sort(Sort.Direction.ASC, groupoperation);
+                break;
+            }
+
+            case "OrdinamentoDecrescente": {
+                sortByCount = sort(Sort.Direction.DESC, groupoperation);
+                break;
+            }
+
+        }
+
+        switch (matchoperation){
+            case "NessunMatching": {
+                break;
+            }
+
+            case "VolumiDisponibili": {
+                match = Aggregation.match(new Criteria("VolumiDisponibili").gte(volumi));
+                break;
+            }
+
+            case "Indirizzo": {
+                match = Aggregation.match(new Criteria("Indirizzo").regex(indirizzo, "i"));
+                break;
+            }
+
+            case "InfoMancanti": {
+                match = Aggregation.match(new Criteria("Fax").regex("Non disponibile", "i")
+                        .orOperator(new Criteria("Url").regex("Non disponibile","i")));
+                break;
+            }
+
+        }
+
+        //.orOperator(new Criteria("Email").regex("Non disponibile", "i")))
+        if (sortByCount != null) {
+
+            if (match != null) aggr = Aggregation.newAggregation(group, match, sortByCount);
+                else aggr = Aggregation.newAggregation(group, sortByCount);
+
+        } else {
+
+            if (match != null) {
+
+                aggr = Aggregation.newAggregation(group, match);
+
+            } else aggr = Aggregation.newAggregation(group);
+        }
+
+
+        AggregationResults<org.bson.Document> documenti = mongoTemplate.aggregate(aggr, "biblioteche2", org.bson.Document.class);
+
+        System.out.println(aggr.getPipeline());
+        System.out.println("documenti"+ documenti);
+        return documenti;
+
     }
 }

@@ -5,4 +5,5 @@
     <li><a href="./">Dashboard</a></li>
     <li><a href="./map">Geolocalizzazione</a></li>
     <li><a href="./search">Filtro di Ricerca</a></li>
+    <li><a href="./Aggregation">Filtro di Aggregazione</a></li>
 </ul>

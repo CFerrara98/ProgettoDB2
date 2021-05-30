@@ -46,32 +46,7 @@
 						<h4 class="h4-spazio">
 							<span class="my-4 header">Progetto database 2 Ferrara Spinelli</span>
 						</h4>
-						<div class="card-deck">
-  							<div class="card border-dark bordo-carta dimensione-carta">
-    							<img src="./resources/images/carosello/aziendacarousel.jpg" class="card-img-top .my_img img-responsive" alt="..." height="232" width="100">
-    								<div class="card-body">
-      									<h5 class="card-title">Aziende Convenzionate</h5>
-      									<p class="card-text">In questa sezione puoi vedere le aziende convenzionate</p>
-      									<a type="button" class="btn btn-primary login-btn btn-dimensione-studente bottonecard" href="./visualizzaAziendeConvenzionateStudente">Aziende Convenzionate</a>
-    								</div>
-  							</div>
-  							<div class="card border-dark bordo-carta dimensione-carta">
-    							<img src="./resources/images/dashDelegato/DomandeTirocinio.jpg" class="card-img-top .my-img img-responsive" alt="..." height="232" width="100">
-    								<div class="card-body">
-	      								<h5 class="card-title">Domande di tirocinio</h5>
-	      								<p class="card-text">In questa sezione puoi vedere le tue domande di tirocinio</p>
-    									<a type="button" class="btn btn-primary login-btn btn-dimensione bottonecard" href="./visualizzaDomandeTirocinioInoltrateStudente">Domande Tirocinio</a>
-    								</div>
-  							</div>
-  							<div class="card border-dark bordo-carta dimensione-carta">
-    							<img src="./resources/images/dashDelegato/TirociniInCorso.jpg" class="card-img-top .my_img img-responsive" alt="..." height="232" width="100">
-    								<div class="card-body">
-      									<h5 class="card-title">Tirocini in corso</h5>
-     	 								<p class="card-text">In questa sezione puoi vedere i tirocini in corso</p>
-    									<a type="button" class="btn btn-primary login-btn btn-dimensione bottonecard" href="./visualizzaTirociniInCorsoStudente">Tirocini in corso</a>
-    								</div>
-  							</div>
-						</div>						
+						<img src="http://avante.biz/wp-content/uploads/Library-Backgrounds/Library-Backgrounds-008.jpg" class="img-fluid rounded" alt="Responsive image">
 					</div>
 				</div>
 

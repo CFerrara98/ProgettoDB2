@@ -27,23 +27,28 @@
                     <jsp:include page="menu.jsp" />
                 </div>
             </nav>
-            <div id="content" class="p-4 p-md-5 pt-5">
+
+            <div id="content" class=" pt-5">
                 <div class="container">
 
                     <h4 class="h4-spazio">
                         <span class="my-4 header">Progetto database 2 Ferrara Spinelli</span>
                     </h4>
                     <div>
-                        <input style="width:fit-content" class="form-control" type="text" placeholder="0.0.0.0" id="ipInput" value="">
+                        <div class="input-group mb-3" style="max-width: 30%">
+                            <input style="width:fit-content" class="form-control" type="text" placeholder="0.0.0.0" id="ipInput" value="">
+                            <div class="input-group-append">
+                                <button id="reg" type="button" class="btn btn-info  btn-block" style="max-width: fit-content">Search</button>
+                            </div>
+                        </div>
                         <br/>
-                        <span>
-                            <button id="w-button-search" type="button" class="btn btn-primary">Search</button>
-                         </span>
+
+                    </div>
                         <br/>
                         <div id="result"></div>
                         <br/>
-                        <div style="width:1200px;background-color:#866ec7;height:700px" id="map"></div>
-                    </div>
+                        <div style="width:60%;background-color:#ffffff;height:60%" id="map"></div>
+
                 </div>
             </div>
 
@@ -61,7 +66,7 @@
 <script>
     $(document).ready(function() {
 
-        $("#w-button-search").click(function() {
+        $("#reg").click(function() {
             $.getJSON("${pageContext.request.contextPath}/getLocationByIpAddress",
                 {
                     ipAddress : $('#ipInput').val()
