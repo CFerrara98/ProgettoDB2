@@ -106,10 +106,10 @@ public class BibliotecaService {
         });
     }
 
-    public AggregationResults<org.bson.Document> findAggregate(String groupselect, String groupoperation, String order, String matchoperation, String indirizzo, Integer volumi) {
+    public AggregationResults<org.bson.Document> findAggregate(String groupselect, String groupoperation, String order, String matchoperation, Integer max, Integer min) {
 
 
-        System.out.println("service" + volumi + " "+ indirizzo + ""+ matchoperation);
+        //System.out.println("service" + volumi + " "+ indirizzo + ""+ matchoperation);
         GroupOperation group = group(groupselect).sum("VolumiDisponibili").as(groupoperation);
         SortOperation sortByCount = null;
         Aggregation aggr;
@@ -173,19 +173,18 @@ public class BibliotecaService {
                 break;
             }
 
-            case "VolumiDisponibili": {
-                match = Aggregation.match(new Criteria("VolumiDisponibili").gte(volumi));
+            case "GratherThan": {
+                match = Aggregation.match(new Criteria(groupoperation).gte(min));
                 break;
             }
 
-            case "Indirizzo": {
-                match = Aggregation.match(new Criteria("Indirizzo").regex(indirizzo, "i"));
+            case "LessThan": {
+                match = Aggregation.match(new Criteria(groupoperation).lte(max));
                 break;
             }
 
-            case "InfoMancanti": {
-                match = Aggregation.match(new Criteria("Fax").regex("Non disponibile", "i")
-                        .orOperator(new Criteria("Url").regex("Non disponibile","i")));
+            case "ValoriRange": {
+                match = Aggregation.match(new Criteria(groupoperation).gte(min).lte(max));
                 break;
             }
 

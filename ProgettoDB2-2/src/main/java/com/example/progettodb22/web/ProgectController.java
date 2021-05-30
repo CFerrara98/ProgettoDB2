@@ -59,11 +59,14 @@ public class ProgectController {
 
     @PostMapping(value = "/findAggregate")
     public String findFiltered(@RequestParam String GroupSelect, @RequestParam String GroupOperation,
-                               @RequestParam String Order, @RequestParam String MatchOperation, @RequestParam String Indirizzo, @RequestParam String Volumi, Model model) {
+                               @RequestParam String Order, @RequestParam String MatchOperation, @RequestParam String SogliaMin, @RequestParam String SogliaMax, Model model) {
 
-        Integer VolumiDis = null;
-        if (Volumi != null && !Volumi.equals("")) VolumiDis = Integer.parseInt(Volumi);
-        AggregationResults<org.bson.Document> documentiAggregati = bibliotecaService.findAggregate(GroupSelect, GroupOperation, Order, MatchOperation, Indirizzo, VolumiDis);
+        Integer Max = null;
+        Integer Min = null;
+        if (SogliaMin != null && !SogliaMin.equals("")) Min = Integer.parseInt(SogliaMin);
+        if (SogliaMax != null && !SogliaMax.equals("")) Max = Integer.parseInt(SogliaMax);
+
+        AggregationResults<org.bson.Document> documentiAggregati = bibliotecaService.findAggregate(GroupSelect, GroupOperation, Order, MatchOperation, Max, Min);
         model.addAttribute("Documenti", documentiAggregati.getMappedResults());
         model.addAttribute("GruppoOperation", GroupOperation);
         model.addAttribute("GruppoSelect", GroupSelect);

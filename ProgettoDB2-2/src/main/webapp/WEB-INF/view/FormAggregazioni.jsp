@@ -89,19 +89,20 @@
                                     </div>
 
                                     <br/>
-                                    <label>Matching</label>
+                                    <label>Attributi di matching</label>
                                     <br/>
                                     <select class="form-control" aria-label=".form-select-lg example" name="MatchOperation" id="MatchingSelect">
                                         <option selected value="NessunMatching">Nessun matching</option>
-                                        <option value="VolumiDisponibili">Volumi disponibili</option>
-                                        <option value="Indirizzo">Indirizzo</option>
-                                        <option value="InfoMancanti">Info mancanti</option>
-
+                                        <option value="GratherThan"> Taglia valori minori di...</option>
+                                        <option value="LessThan"> Taglia varoli maggiori di...</option>
+                                        <option value="ValoriRange"> Taglia valori esterni ad un range</option>
                                     </select>
                                     <br/>
 
-                                    <input type="number" id = "Volumi" name="Volumi" placeholder="Inserisci numero di volumi per il matching" min = "1" class="form-control is-invalid">
-                                    <input type="text" id = "Indirizzo" name="Indirizzo" placeholder="Inserisci info sull'indirizzo"  class="form-control is-invalid">
+                                    <input type="number" id = "SogliaMin" name="SogliaMin" placeholder="Inserisci il bound inferiore" min = "1" class="form-control is-invalid disabled">
+                                    <br/>
+
+                                    <input type="number" id = "SogliaMax" name="SogliaMax" placeholder="Inserisci il bound superiore" min = "1" class="form-control is-invalid disabled">
 
                                 </div>
                             </div>
@@ -129,23 +130,23 @@
 <script>
     $(document).ready(function() {
 
-        $("#Volumi").hide();
-        $("#Indirizzo").hide();
+        $("#SogliaMax").hide();
+        $("#SogliaMin").hide();
 
 
         $('#MatchingSelect').change(function () {
-            if (this.value == 'VolumiDisponibili') {
-                $("#Volumi").show();
-                $("#Indirizzo").hide();
-            } else if (this.value == 'Indirizzo') {
-                $("#Volumi").hide();
-                $("#Indirizzo").show();
-            } else if (this.value == 'InfoMancanti') {
-                $("#Volumi").hide();
-                $("#Indirizzo").hide();
+            if (this.value == 'GratherThan') {
+                $("#SogliaMin").show();
+                $("#SogliaMax").hide();
+            } else if (this.value == 'LessThan') {
+                $("#SogliaMin").hide();
+                $("#SogliaMax").show();
+            } else if (this.value == 'ValoriRange') {
+                $("#SogliaMin").show();
+                $("#SogliaMax").show();
             } else if (this.value == 'NessunMatching') {
-                $("#Volumi").hide();
-                $("#Indirizzo").hide();
+                $("#SogliaMin").hide();
+                $("#SogliaMax").hide();
             }
         });
     });
