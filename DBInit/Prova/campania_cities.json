@@ -1,0 +1,5501 @@
+[{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3ee"
+  },
+  "istat": "61001",
+  "comune": "Ailano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3ef"
+  },
+  "istat": "61002",
+  "comune": "Alife",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f0"
+  },
+  "istat": "61003",
+  "comune": "Alvignano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f1"
+  },
+  "istat": "61004",
+  "comune": "Arienzo",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f2"
+  },
+  "istat": "61005",
+  "comune": "Aversa",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f3"
+  },
+  "istat": "61006",
+  "comune": "Baia e Latina",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f4"
+  },
+  "istat": "61007",
+  "comune": "Bellona",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f5"
+  },
+  "istat": "61008",
+  "comune": "Caianello",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f6"
+  },
+  "istat": "61009",
+  "comune": "Caiazzo",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f7"
+  },
+  "istat": "61010",
+  "comune": "Calvi Risorta",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f8"
+  },
+  "istat": "61011",
+  "comune": "Camigliano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3f9"
+  },
+  "istat": "61012",
+  "comune": "Cancello ed Arnone",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3fa"
+  },
+  "istat": "61013",
+  "comune": "Capodrise",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3fb"
+  },
+  "istat": "61014",
+  "comune": "Capriati a Volturno",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3fc"
+  },
+  "istat": "61015",
+  "comune": "Capua",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3fd"
+  },
+  "istat": "61016",
+  "comune": "Carinaro",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3fe"
+  },
+  "istat": "61017",
+  "comune": "Carinola",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e3ff"
+  },
+  "istat": "61018",
+  "comune": "Casagiove",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e400"
+  },
+  "istat": "61019",
+  "comune": "Casal di Principe",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e401"
+  },
+  "istat": "61020",
+  "comune": "Casaluce",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e402"
+  },
+  "istat": "61021",
+  "comune": "Casapulla",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e403"
+  },
+  "istat": "61022",
+  "comune": "Caserta",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e404"
+  },
+  "istat": "61023",
+  "comune": "Castel Campagnano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e405"
+  },
+  "istat": "61024",
+  "comune": "Castel di Sasso",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e406"
+  },
+  "istat": "61025",
+  "comune": "Castello del Matese",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e407"
+  },
+  "istat": "61026",
+  "comune": "Castel Morrone",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e408"
+  },
+  "istat": "61027",
+  "comune": "Castel Volturno",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e409"
+  },
+  "istat": "61028",
+  "comune": "Cervino",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40a"
+  },
+  "istat": "61029",
+  "comune": "Cesa",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40b"
+  },
+  "istat": "61030",
+  "comune": "Ciorlano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40c"
+  },
+  "istat": "61031",
+  "comune": "Conca della Campania",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40d"
+  },
+  "istat": "61032",
+  "comune": "Curti",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40e"
+  },
+  "istat": "61033",
+  "comune": "Dragoni",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e40f"
+  },
+  "istat": "61034",
+  "comune": "Fontegreca",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e410"
+  },
+  "istat": "61035",
+  "comune": "Formicola",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e411"
+  },
+  "istat": "61036",
+  "comune": "Francolise",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e412"
+  },
+  "istat": "61037",
+  "comune": "Frignano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e413"
+  },
+  "istat": "61038",
+  "comune": "Gallo Matese",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e414"
+  },
+  "istat": "61039",
+  "comune": "Galluccio",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e415"
+  },
+  "istat": "61040",
+  "comune": "Giano Vetusto",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e416"
+  },
+  "istat": "61041",
+  "comune": "Gioia Sannitica",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e417"
+  },
+  "istat": "61042",
+  "comune": "Grazzanise",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e418"
+  },
+  "istat": "61043",
+  "comune": "Gricignano di Aversa",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e419"
+  },
+  "istat": "61044",
+  "comune": "Letino",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41a"
+  },
+  "istat": "61045",
+  "comune": "Liberi",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41b"
+  },
+  "istat": "61046",
+  "comune": "Lusciano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41c"
+  },
+  "istat": "61047",
+  "comune": "Macerata Campania",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41d"
+  },
+  "istat": "61048",
+  "comune": "Maddaloni",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41e"
+  },
+  "istat": "61049",
+  "comune": "Marcianise",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e41f"
+  },
+  "istat": "61050",
+  "comune": "Marzano Appio",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e420"
+  },
+  "istat": "61051",
+  "comune": "Mignano Monte Lungo",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e421"
+  },
+  "istat": "61052",
+  "comune": "Mondragone",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e422"
+  },
+  "istat": "61053",
+  "comune": "Orta di Atella",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e423"
+  },
+  "istat": "61054",
+  "comune": "Parete",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e424"
+  },
+  "istat": "61055",
+  "comune": "Pastorano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e425"
+  },
+  "istat": "61056",
+  "comune": "Piana di Monte Verna",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e426"
+  },
+  "istat": "61057",
+  "comune": "Piedimonte Matese",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e427"
+  },
+  "istat": "61058",
+  "comune": "Pietramelara",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e428"
+  },
+  "istat": "61059",
+  "comune": "Pietravairano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e429"
+  },
+  "istat": "61060",
+  "comune": "Pignataro Maggiore",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42a"
+  },
+  "istat": "61061",
+  "comune": "Pontelatone",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42b"
+  },
+  "istat": "61062",
+  "comune": "Portico di Caserta",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42c"
+  },
+  "istat": "61063",
+  "comune": "Prata Sannita",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42d"
+  },
+  "istat": "61064",
+  "comune": "Pratella",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42e"
+  },
+  "istat": "61065",
+  "comune": "Presenzano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e42f"
+  },
+  "istat": "61066",
+  "comune": "Raviscanina",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e430"
+  },
+  "istat": "61067",
+  "comune": "Recale",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e431"
+  },
+  "istat": "61068",
+  "comune": "Riardo",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e432"
+  },
+  "istat": "61069",
+  "comune": "Rocca D'Evandro",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e433"
+  },
+  "istat": "61070",
+  "comune": "Roccamonfina",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e434"
+  },
+  "istat": "61071",
+  "comune": "Roccaromana",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e435"
+  },
+  "istat": "61072",
+  "comune": "Rocchetta e Croce",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e436"
+  },
+  "istat": "61073",
+  "comune": "Ruviano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e437"
+  },
+  "istat": "61074",
+  "comune": "San Cipriano d'Aversa",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e438"
+  },
+  "istat": "61075",
+  "comune": "San Felice a Cancello",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e439"
+  },
+  "istat": "61076",
+  "comune": "San Gregorio Matese",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43a"
+  },
+  "istat": "61077",
+  "comune": "San Marcellino",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43b"
+  },
+  "istat": "61078",
+  "comune": "San Nicola la Strada",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43c"
+  },
+  "istat": "61079",
+  "comune": "San Pietro Infine",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43d"
+  },
+  "istat": "61080",
+  "comune": "San Potito Sannitico",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43e"
+  },
+  "istat": "61081",
+  "comune": "San Prisco",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e43f"
+  },
+  "istat": "61082",
+  "comune": "Santa Maria a Vico",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e440"
+  },
+  "istat": "61083",
+  "comune": "Santa Maria Capua Vetere",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e441"
+  },
+  "istat": "61084",
+  "comune": "Santa Maria La Fossa",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e442"
+  },
+  "istat": "61085",
+  "comune": "San Tammaro",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e443"
+  },
+  "istat": "61086",
+  "comune": "Sant'Angelo d'Alife",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e444"
+  },
+  "istat": "61087",
+  "comune": "Sant'Arpino",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e445"
+  },
+  "istat": "61088",
+  "comune": "Sessa Aurunca",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e446"
+  },
+  "istat": "61089",
+  "comune": "Sparanise",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e447"
+  },
+  "istat": "61090",
+  "comune": "Succivo",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e448"
+  },
+  "istat": "61091",
+  "comune": "Teano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e449"
+  },
+  "istat": "61092",
+  "comune": "Teverola",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44a"
+  },
+  "istat": "61093",
+  "comune": "Tora e Piccilli",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44b"
+  },
+  "istat": "61094",
+  "comune": "Trentola Ducenta",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44c"
+  },
+  "istat": "61095",
+  "comune": "Vairano Patenora",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44d"
+  },
+  "istat": "61096",
+  "comune": "Valle Agricola",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44e"
+  },
+  "istat": "61097",
+  "comune": "Valle di Maddaloni",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e44f"
+  },
+  "istat": "61098",
+  "comune": "Villa di Briano",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e450"
+  },
+  "istat": "61099",
+  "comune": "Villa Literno",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e451"
+  },
+  "istat": "61100",
+  "comune": "Vitulazio",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e452"
+  },
+  "istat": "61101",
+  "comune": "Falciano del Massico",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e453"
+  },
+  "istat": "61102",
+  "comune": "Cellole",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e454"
+  },
+  "istat": "61103",
+  "comune": "Casapesenna",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e455"
+  },
+  "istat": "61104",
+  "comune": "San Marco Evangelista",
+  "regione": "Campania",
+  "provincia": "CE",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e456"
+  },
+  "istat": "62001",
+  "comune": "Airola",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e457"
+  },
+  "istat": "62002",
+  "comune": "Amorosi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e458"
+  },
+  "istat": "62003",
+  "comune": "Apice",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e459"
+  },
+  "istat": "62004",
+  "comune": "Apollosa",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45a"
+  },
+  "istat": "62005",
+  "comune": "Arpaia",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45b"
+  },
+  "istat": "62006",
+  "comune": "Arpaise",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45c"
+  },
+  "istat": "62007",
+  "comune": "Baselice",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45d"
+  },
+  "istat": "62008",
+  "comune": "Benevento",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45e"
+  },
+  "istat": "62009",
+  "comune": "Bonea",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e45f"
+  },
+  "istat": "62010",
+  "comune": "Bucciano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e460"
+  },
+  "istat": "62011",
+  "comune": "Buonalbergo",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e461"
+  },
+  "istat": "62012",
+  "comune": "Calvi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e462"
+  },
+  "istat": "62013",
+  "comune": "Campolattaro",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e463"
+  },
+  "istat": "62014",
+  "comune": "Campoli del Monte Taburno",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e464"
+  },
+  "istat": "62015",
+  "comune": "Casalduni",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e465"
+  },
+  "istat": "62016",
+  "comune": "Castelfranco in Miscano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e466"
+  },
+  "istat": "62017",
+  "comune": "Castelpagano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e467"
+  },
+  "istat": "62018",
+  "comune": "Castelpoto",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e468"
+  },
+  "istat": "62019",
+  "comune": "Castelvenere",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e469"
+  },
+  "istat": "62020",
+  "comune": "Castelvetere in Val Fortore",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46a"
+  },
+  "istat": "62021",
+  "comune": "Cautano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46b"
+  },
+  "istat": "62022",
+  "comune": "Ceppaloni",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46c"
+  },
+  "istat": "62023",
+  "comune": "Cerreto Sannita",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46d"
+  },
+  "istat": "62024",
+  "comune": "Circello",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46e"
+  },
+  "istat": "62025",
+  "comune": "Colle Sannita",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e46f"
+  },
+  "istat": "62026",
+  "comune": "Cusano Mutri",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e470"
+  },
+  "istat": "62027",
+  "comune": "Dugenta",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e471"
+  },
+  "istat": "62028",
+  "comune": "Durazzano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e472"
+  },
+  "istat": "62029",
+  "comune": "Faicchio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e473"
+  },
+  "istat": "62030",
+  "comune": "Foglianise",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e474"
+  },
+  "istat": "62031",
+  "comune": "Foiano di Val Fortore",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e475"
+  },
+  "istat": "62032",
+  "comune": "Forchia",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e476"
+  },
+  "istat": "62033",
+  "comune": "Fragneto L'Abate",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e477"
+  },
+  "istat": "62034",
+  "comune": "Fragneto Monforte",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e478"
+  },
+  "istat": "62035",
+  "comune": "Frasso Telesino",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e479"
+  },
+  "istat": "62036",
+  "comune": "Ginestra degli Schiavoni",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47a"
+  },
+  "istat": "62037",
+  "comune": "Guardia Sanframondi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47b"
+  },
+  "istat": "62038",
+  "comune": "Limatola",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47c"
+  },
+  "istat": "62039",
+  "comune": "Melizzano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47d"
+  },
+  "istat": "62040",
+  "comune": "Moiano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47e"
+  },
+  "istat": "62041",
+  "comune": "Molinara",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e47f"
+  },
+  "istat": "62042",
+  "comune": "Montefalcone di Val Fortore",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e480"
+  },
+  "istat": "62043",
+  "comune": "Montesarchio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e481"
+  },
+  "istat": "62044",
+  "comune": "Morcone",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e482"
+  },
+  "istat": "62045",
+  "comune": "Paduli",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e483"
+  },
+  "istat": "62046",
+  "comune": "Pago Veiano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e484"
+  },
+  "istat": "62047",
+  "comune": "Pannarano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e485"
+  },
+  "istat": "62048",
+  "comune": "Paolisi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e486"
+  },
+  "istat": "62049",
+  "comune": "Paupisi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e487"
+  },
+  "istat": "62050",
+  "comune": "Pesco Sannita",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e488"
+  },
+  "istat": "62051",
+  "comune": "Pietraroja",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e489"
+  },
+  "istat": "62052",
+  "comune": "Pietrelcina",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48a"
+  },
+  "istat": "62053",
+  "comune": "Ponte",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48b"
+  },
+  "istat": "62054",
+  "comune": "Pontelandolfo",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48c"
+  },
+  "istat": "62055",
+  "comune": "Puglianello",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48d"
+  },
+  "istat": "62056",
+  "comune": "Reino",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48e"
+  },
+  "istat": "62057",
+  "comune": "San Bartolomeo in Galdo",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e48f"
+  },
+  "istat": "62058",
+  "comune": "San Giorgio del Sannio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e490"
+  },
+  "istat": "62059",
+  "comune": "San Giorgio La Molara",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e491"
+  },
+  "istat": "62060",
+  "comune": "San Leucio del Sannio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e492"
+  },
+  "istat": "62061",
+  "comune": "San Lorenzello",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e493"
+  },
+  "istat": "62062",
+  "comune": "San Lorenzo Maggiore",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e494"
+  },
+  "istat": "62063",
+  "comune": "San Lupo",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e495"
+  },
+  "istat": "62064",
+  "comune": "San Marco dei Cavoti",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e496"
+  },
+  "istat": "62065",
+  "comune": "San Martino Sannita",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e497"
+  },
+  "istat": "62066",
+  "comune": "San Nazzaro",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e498"
+  },
+  "istat": "62067",
+  "comune": "San Nicola Manfredi",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e499"
+  },
+  "istat": "62068",
+  "comune": "San Salvatore Telesino",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49a"
+  },
+  "istat": "62069",
+  "comune": "Santa Croce del Sannio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49b"
+  },
+  "istat": "62070",
+  "comune": "Sant'Agata De' Goti",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49c"
+  },
+  "istat": "62071",
+  "comune": "Sant'Angelo a Cupolo",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49d"
+  },
+  "istat": "62072",
+  "comune": "Sassinoro",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49e"
+  },
+  "istat": "62073",
+  "comune": "Solopaca",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e49f"
+  },
+  "istat": "62074",
+  "comune": "Telese Terme",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a0"
+  },
+  "istat": "62075",
+  "comune": "Tocco Caudio",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a1"
+  },
+  "istat": "62076",
+  "comune": "Torrecuso",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a2"
+  },
+  "istat": "62077",
+  "comune": "Vitulano",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a3"
+  },
+  "istat": "62078",
+  "comune": "Sant'Arcangelo Trimonte",
+  "regione": "Campania",
+  "provincia": "BN",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a4"
+  },
+  "istat": "63001",
+  "comune": "Acerra",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a5"
+  },
+  "istat": "63002",
+  "comune": "Afragola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a6"
+  },
+  "istat": "63003",
+  "comune": "Agerola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a7"
+  },
+  "istat": "63004",
+  "comune": "Anacapri",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a8"
+  },
+  "istat": "63005",
+  "comune": "Arzano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4a9"
+  },
+  "istat": "63006",
+  "comune": "Bacoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4aa"
+  },
+  "istat": "63007",
+  "comune": "Barano d'Ischia",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ab"
+  },
+  "istat": "63008",
+  "comune": "Boscoreale",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ac"
+  },
+  "istat": "63009",
+  "comune": "Boscotrecase",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ad"
+  },
+  "istat": "63010",
+  "comune": "Brusciano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ae"
+  },
+  "istat": "63011",
+  "comune": "Caivano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4af"
+  },
+  "istat": "63012",
+  "comune": "Calvizzano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b0"
+  },
+  "istat": "63013",
+  "comune": "Camposano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b1"
+  },
+  "istat": "63014",
+  "comune": "Capri",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b2"
+  },
+  "istat": "63015",
+  "comune": "Carbonara di Nola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b3"
+  },
+  "istat": "63016",
+  "comune": "Cardito",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b4"
+  },
+  "istat": "63017",
+  "comune": "Casalnuovo di Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b5"
+  },
+  "istat": "63018",
+  "comune": "Casamarciano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b6"
+  },
+  "istat": "63019",
+  "comune": "Casamicciola Terme",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b7"
+  },
+  "istat": "63020",
+  "comune": "Casandrino",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b8"
+  },
+  "istat": "63021",
+  "comune": "Casavatore",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4b9"
+  },
+  "istat": "63022",
+  "comune": "Casola di Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ba"
+  },
+  "istat": "63023",
+  "comune": "Casoria",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4bb"
+  },
+  "istat": "63024",
+  "comune": "Castellammare di Stabia",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4bc"
+  },
+  "istat": "63025",
+  "comune": "Castello di Cisterna",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4bd"
+  },
+  "istat": "63026",
+  "comune": "Cercola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4be"
+  },
+  "istat": "63027",
+  "comune": "Cicciano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4bf"
+  },
+  "istat": "63028",
+  "comune": "Cimitile",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c0"
+  },
+  "istat": "63029",
+  "comune": "Comiziano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c1"
+  },
+  "istat": "63030",
+  "comune": "Crispano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c2"
+  },
+  "istat": "63031",
+  "comune": "Forio",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c3"
+  },
+  "istat": "63032",
+  "comune": "Frattamaggiore",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c4"
+  },
+  "istat": "63033",
+  "comune": "Frattaminore",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c5"
+  },
+  "istat": "63034",
+  "comune": "Giugliano in Campania",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c6"
+  },
+  "istat": "63035",
+  "comune": "Gragnano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c7"
+  },
+  "istat": "63036",
+  "comune": "Grumo Nevano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c8"
+  },
+  "istat": "63037",
+  "comune": "Ischia",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4c9"
+  },
+  "istat": "63038",
+  "comune": "Lacco Ameno",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ca"
+  },
+  "istat": "63039",
+  "comune": "Lettere",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4cb"
+  },
+  "istat": "63040",
+  "comune": "Liveri",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4cc"
+  },
+  "istat": "63041",
+  "comune": "Marano di Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4cd"
+  },
+  "istat": "63042",
+  "comune": "Mariglianella",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ce"
+  },
+  "istat": "63043",
+  "comune": "Marigliano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4cf"
+  },
+  "istat": "63044",
+  "comune": "Massa Lubrense",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d0"
+  },
+  "istat": "63045",
+  "comune": "Melito di Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d1"
+  },
+  "istat": "63046",
+  "comune": "Meta",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d2"
+  },
+  "istat": "63047",
+  "comune": "Monte di Procida",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d3"
+  },
+  "istat": "63048",
+  "comune": "Mugnano di Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d4"
+  },
+  "istat": "63049",
+  "comune": "Napoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d5"
+  },
+  "istat": "63050",
+  "comune": "Nola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d6"
+  },
+  "istat": "63051",
+  "comune": "Ottaviano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d7"
+  },
+  "istat": "63052",
+  "comune": "Palma Campania",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d8"
+  },
+  "istat": "63053",
+  "comune": "Piano di Sorrento",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4d9"
+  },
+  "istat": "63054",
+  "comune": "Pimonte",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4da"
+  },
+  "istat": "63055",
+  "comune": "Poggiomarino",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4db"
+  },
+  "istat": "63056",
+  "comune": "Pollena Trocchia",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4dc"
+  },
+  "istat": "63057",
+  "comune": "Pomigliano d'Arco",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4dd"
+  },
+  "istat": "63058",
+  "comune": "Pompei",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4de"
+  },
+  "istat": "63059",
+  "comune": "Portici",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4df"
+  },
+  "istat": "63060",
+  "comune": "Pozzuoli",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e0"
+  },
+  "istat": "63061",
+  "comune": "Procida",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e1"
+  },
+  "istat": "63062",
+  "comune": "Qualiano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e2"
+  },
+  "istat": "63063",
+  "comune": "Quarto",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e3"
+  },
+  "istat": "63064",
+  "comune": "Ercolano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e4"
+  },
+  "istat": "63065",
+  "comune": "Roccarainola",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e5"
+  },
+  "istat": "63066",
+  "comune": "San Gennaro Vesuviano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e6"
+  },
+  "istat": "63067",
+  "comune": "San Giorgio a Cremano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e7"
+  },
+  "istat": "63068",
+  "comune": "San Giuseppe Vesuviano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e8"
+  },
+  "istat": "63069",
+  "comune": "San Paolo Bel Sito",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4e9"
+  },
+  "istat": "63070",
+  "comune": "San Sebastiano al Vesuvio",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ea"
+  },
+  "istat": "63071",
+  "comune": "Sant'Agnello",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4eb"
+  },
+  "istat": "63072",
+  "comune": "Sant'Anastasia",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ec"
+  },
+  "istat": "63073",
+  "comune": "Sant'Antimo",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ed"
+  },
+  "istat": "63074",
+  "comune": "Sant'Antonio Abate",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ee"
+  },
+  "istat": "63075",
+  "comune": "San Vitaliano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ef"
+  },
+  "istat": "63076",
+  "comune": "Saviano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f0"
+  },
+  "istat": "63077",
+  "comune": "Scisciano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f1"
+  },
+  "istat": "63078",
+  "comune": "Serrara Fontana",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f2"
+  },
+  "istat": "63079",
+  "comune": "Somma Vesuviana",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f3"
+  },
+  "istat": "63080",
+  "comune": "Sorrento",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f4"
+  },
+  "istat": "63081",
+  "comune": "Striano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f5"
+  },
+  "istat": "63082",
+  "comune": "Terzigno",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f6"
+  },
+  "istat": "63083",
+  "comune": "Torre Annunziata",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f7"
+  },
+  "istat": "63084",
+  "comune": "Torre del Greco",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f8"
+  },
+  "istat": "63085",
+  "comune": "Tufino",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4f9"
+  },
+  "istat": "63086",
+  "comune": "Vico Equense",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4fa"
+  },
+  "istat": "63087",
+  "comune": "Villaricca",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4fb"
+  },
+  "istat": "63088",
+  "comune": "Visciano",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4fc"
+  },
+  "istat": "63089",
+  "comune": "Volla",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4fd"
+  },
+  "istat": "63090",
+  "comune": "Santa Maria la Carità",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4fe"
+  },
+  "istat": "63091",
+  "comune": "Trecase",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e4ff"
+  },
+  "istat": "63092",
+  "comune": "Massa di Somma",
+  "regione": "Campania",
+  "provincia": "NA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e500"
+  },
+  "istat": "64001",
+  "comune": "Aiello del Sabato",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e501"
+  },
+  "istat": "64002",
+  "comune": "Altavilla Irpina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e502"
+  },
+  "istat": "64003",
+  "comune": "Andretta",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e503"
+  },
+  "istat": "64004",
+  "comune": "Aquilonia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e504"
+  },
+  "istat": "64005",
+  "comune": "Ariano Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e505"
+  },
+  "istat": "64006",
+  "comune": "Atripalda",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e506"
+  },
+  "istat": "64007",
+  "comune": "Avella",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e507"
+  },
+  "istat": "64008",
+  "comune": "Avellino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e508"
+  },
+  "istat": "64009",
+  "comune": "Bagnoli Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e509"
+  },
+  "istat": "64010",
+  "comune": "Baiano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50a"
+  },
+  "istat": "64011",
+  "comune": "Bisaccia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50b"
+  },
+  "istat": "64012",
+  "comune": "Bonito",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50c"
+  },
+  "istat": "64013",
+  "comune": "Cairano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50d"
+  },
+  "istat": "64014",
+  "comune": "Calabritto",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50e"
+  },
+  "istat": "64015",
+  "comune": "Calitri",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e50f"
+  },
+  "istat": "64016",
+  "comune": "Candida",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e510"
+  },
+  "istat": "64017",
+  "comune": "Caposele",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e511"
+  },
+  "istat": "64018",
+  "comune": "Capriglia Irpina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e512"
+  },
+  "istat": "64019",
+  "comune": "Carife",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e513"
+  },
+  "istat": "64020",
+  "comune": "Casalbore",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e514"
+  },
+  "istat": "64021",
+  "comune": "Cassano Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e515"
+  },
+  "istat": "64022",
+  "comune": "Castel Baronia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e516"
+  },
+  "istat": "64023",
+  "comune": "Castelfranci",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e517"
+  },
+  "istat": "64024",
+  "comune": "Castelvetere sul Calore",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e518"
+  },
+  "istat": "64025",
+  "comune": "Cervinara",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e519"
+  },
+  "istat": "64026",
+  "comune": "Cesinali",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51a"
+  },
+  "istat": "64027",
+  "comune": "Chianche",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51b"
+  },
+  "istat": "64028",
+  "comune": "Chiusano di San Domenico",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51c"
+  },
+  "istat": "64029",
+  "comune": "Contrada",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51d"
+  },
+  "istat": "64030",
+  "comune": "Conza della Campania",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51e"
+  },
+  "istat": "64031",
+  "comune": "Domicella",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e51f"
+  },
+  "istat": "64032",
+  "comune": "Flumeri",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e520"
+  },
+  "istat": "64033",
+  "comune": "Fontanarosa",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e521"
+  },
+  "istat": "64034",
+  "comune": "Forino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e522"
+  },
+  "istat": "64035",
+  "comune": "Frigento",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e523"
+  },
+  "istat": "64036",
+  "comune": "Gesualdo",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e524"
+  },
+  "istat": "64037",
+  "comune": "Greci",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e525"
+  },
+  "istat": "64038",
+  "comune": "Grottaminarda",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e526"
+  },
+  "istat": "64039",
+  "comune": "Grottolella",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e527"
+  },
+  "istat": "64040",
+  "comune": "Guardia Lombardi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e528"
+  },
+  "istat": "64041",
+  "comune": "Lacedonia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e529"
+  },
+  "istat": "64042",
+  "comune": "Lapio",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52a"
+  },
+  "istat": "64043",
+  "comune": "Lauro",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52b"
+  },
+  "istat": "64044",
+  "comune": "Lioni",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52c"
+  },
+  "istat": "64045",
+  "comune": "Luogosano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52d"
+  },
+  "istat": "64046",
+  "comune": "Manocalzati",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52e"
+  },
+  "istat": "64047",
+  "comune": "Marzano di Nola",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e52f"
+  },
+  "istat": "64048",
+  "comune": "Melito Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e530"
+  },
+  "istat": "64049",
+  "comune": "Mercogliano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e531"
+  },
+  "istat": "64050",
+  "comune": "Mirabella Eclano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e532"
+  },
+  "istat": "64051",
+  "comune": "Montaguto",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e533"
+  },
+  "istat": "64052",
+  "comune": "Montecalvo Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e534"
+  },
+  "istat": "64053",
+  "comune": "Montefalcione",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e535"
+  },
+  "istat": "64054",
+  "comune": "Monteforte Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e536"
+  },
+  "istat": "64055",
+  "comune": "Montefredane",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e537"
+  },
+  "istat": "64056",
+  "comune": "Montefusco",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e538"
+  },
+  "istat": "64057",
+  "comune": "Montella",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e539"
+  },
+  "istat": "64058",
+  "comune": "Montemarano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53a"
+  },
+  "istat": "64059",
+  "comune": "Montemiletto",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53b"
+  },
+  "istat": "64060",
+  "comune": "Monteverde",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53c"
+  },
+  "istat": "64063",
+  "comune": "Morra De Sanctis",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53d"
+  },
+  "istat": "64064",
+  "comune": "Moschiano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53e"
+  },
+  "istat": "64065",
+  "comune": "Mugnano del Cardinale",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e53f"
+  },
+  "istat": "64066",
+  "comune": "Nusco",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e540"
+  },
+  "istat": "64067",
+  "comune": "Ospedaletto d'Alpinolo",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e541"
+  },
+  "istat": "64068",
+  "comune": "Pago del Vallo di Lauro",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e542"
+  },
+  "istat": "64069",
+  "comune": "Parolise",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e543"
+  },
+  "istat": "64070",
+  "comune": "Paternopoli",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e544"
+  },
+  "istat": "64071",
+  "comune": "Petruro Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e545"
+  },
+  "istat": "64072",
+  "comune": "Pietradefusi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e546"
+  },
+  "istat": "64073",
+  "comune": "Pietrastornina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e547"
+  },
+  "istat": "64074",
+  "comune": "Prata di Principato Ultra",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e548"
+  },
+  "istat": "64075",
+  "comune": "Pratola Serra",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e549"
+  },
+  "istat": "64076",
+  "comune": "Quadrelle",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54a"
+  },
+  "istat": "64077",
+  "comune": "Quindici",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54b"
+  },
+  "istat": "64078",
+  "comune": "Roccabascerana",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54c"
+  },
+  "istat": "64079",
+  "comune": "Rocca San Felice",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54d"
+  },
+  "istat": "64080",
+  "comune": "Rotondi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54e"
+  },
+  "istat": "64081",
+  "comune": "Salza Irpina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e54f"
+  },
+  "istat": "64082",
+  "comune": "San Mango sul Calore",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e550"
+  },
+  "istat": "64083",
+  "comune": "San Martino Valle Caudina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e551"
+  },
+  "istat": "64084",
+  "comune": "San Michele di Serino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e552"
+  },
+  "istat": "64085",
+  "comune": "San Nicola Baronia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e553"
+  },
+  "istat": "64086",
+  "comune": "San Potito Ultra",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e554"
+  },
+  "istat": "64087",
+  "comune": "San Sossio Baronia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e555"
+  },
+  "istat": "64088",
+  "comune": "Santa Lucia di Serino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e556"
+  },
+  "istat": "64089",
+  "comune": "Sant'Andrea di Conza",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e557"
+  },
+  "istat": "64090",
+  "comune": "Sant'Angelo all'Esca",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e558"
+  },
+  "istat": "64091",
+  "comune": "Sant'Angelo a Scala",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e559"
+  },
+  "istat": "64092",
+  "comune": "Sant'Angelo dei Lombardi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55a"
+  },
+  "istat": "64093",
+  "comune": "Santa Paolina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55b"
+  },
+  "istat": "64095",
+  "comune": "Santo Stefano del Sole",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55c"
+  },
+  "istat": "64096",
+  "comune": "Savignano Irpino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55d"
+  },
+  "istat": "64097",
+  "comune": "Scampitella",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55e"
+  },
+  "istat": "64098",
+  "comune": "Senerchia",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e55f"
+  },
+  "istat": "64099",
+  "comune": "Serino",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e560"
+  },
+  "istat": "64100",
+  "comune": "Sirignano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e561"
+  },
+  "istat": "64101",
+  "comune": "Solofra",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e562"
+  },
+  "istat": "64102",
+  "comune": "Sorbo Serpico",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e563"
+  },
+  "istat": "64103",
+  "comune": "Sperone",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e564"
+  },
+  "istat": "64104",
+  "comune": "Sturno",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e565"
+  },
+  "istat": "64105",
+  "comune": "Summonte",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e566"
+  },
+  "istat": "64106",
+  "comune": "Taurano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e567"
+  },
+  "istat": "64107",
+  "comune": "Taurasi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e568"
+  },
+  "istat": "64108",
+  "comune": "Teora",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e569"
+  },
+  "istat": "64109",
+  "comune": "Torella dei Lombardi",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56a"
+  },
+  "istat": "64110",
+  "comune": "Torre Le Nocelle",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56b"
+  },
+  "istat": "64111",
+  "comune": "Torrioni",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56c"
+  },
+  "istat": "64112",
+  "comune": "Trevico",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56d"
+  },
+  "istat": "64113",
+  "comune": "Tufo",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56e"
+  },
+  "istat": "64114",
+  "comune": "Vallata",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e56f"
+  },
+  "istat": "64115",
+  "comune": "Vallesaccarda",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e570"
+  },
+  "istat": "64116",
+  "comune": "Venticano",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e571"
+  },
+  "istat": "64117",
+  "comune": "Villamaina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e572"
+  },
+  "istat": "64118",
+  "comune": "Villanova del Battista",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e573"
+  },
+  "istat": "64119",
+  "comune": "Volturara Irpina",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e574"
+  },
+  "istat": "64120",
+  "comune": "Zungoli",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e575"
+  },
+  "istat": "64121",
+  "comune": "Montoro",
+  "regione": "Campania",
+  "provincia": "AV",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e576"
+  },
+  "istat": "65001",
+  "comune": "Acerno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e577"
+  },
+  "istat": "65002",
+  "comune": "Agropoli",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e578"
+  },
+  "istat": "65003",
+  "comune": "Albanella",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e579"
+  },
+  "istat": "65004",
+  "comune": "Alfano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57a"
+  },
+  "istat": "65005",
+  "comune": "Altavilla Silentina",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57b"
+  },
+  "istat": "65006",
+  "comune": "Amalfi",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57c"
+  },
+  "istat": "65007",
+  "comune": "Angri",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57d"
+  },
+  "istat": "65008",
+  "comune": "Aquara",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57e"
+  },
+  "istat": "65009",
+  "comune": "Ascea",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e57f"
+  },
+  "istat": "65010",
+  "comune": "Atena Lucana",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e580"
+  },
+  "istat": "65011",
+  "comune": "Atrani",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e581"
+  },
+  "istat": "65012",
+  "comune": "Auletta",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e582"
+  },
+  "istat": "65013",
+  "comune": "Baronissi",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e583"
+  },
+  "istat": "65014",
+  "comune": "Battipaglia",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e584"
+  },
+  "istat": "65015",
+  "comune": "Bellosguardo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e585"
+  },
+  "istat": "65016",
+  "comune": "Bracigliano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e586"
+  },
+  "istat": "65017",
+  "comune": "Buccino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e587"
+  },
+  "istat": "65018",
+  "comune": "Buonabitacolo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e588"
+  },
+  "istat": "65019",
+  "comune": "Caggiano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e589"
+  },
+  "istat": "65020",
+  "comune": "Calvanico",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58a"
+  },
+  "istat": "65021",
+  "comune": "Camerota",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58b"
+  },
+  "istat": "65022",
+  "comune": "Campagna",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58c"
+  },
+  "istat": "65023",
+  "comune": "Campora",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58d"
+  },
+  "istat": "65024",
+  "comune": "Cannalonga",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58e"
+  },
+  "istat": "65025",
+  "comune": "Capaccio Paestum",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e58f"
+  },
+  "istat": "65026",
+  "comune": "Casalbuono",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e590"
+  },
+  "istat": "65027",
+  "comune": "Casaletto Spartano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e591"
+  },
+  "istat": "65028",
+  "comune": "Casal Velino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e592"
+  },
+  "istat": "65029",
+  "comune": "Caselle in Pittari",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e593"
+  },
+  "istat": "65030",
+  "comune": "Castelcivita",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e594"
+  },
+  "istat": "65031",
+  "comune": "Castellabate",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e595"
+  },
+  "istat": "65032",
+  "comune": "Castelnuovo Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e596"
+  },
+  "istat": "65033",
+  "comune": "Castelnuovo di Conza",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e597"
+  },
+  "istat": "65034",
+  "comune": "Castel San Giorgio",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e598"
+  },
+  "istat": "65035",
+  "comune": "Castel San Lorenzo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e599"
+  },
+  "istat": "65036",
+  "comune": "Castiglione del Genovesi",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59a"
+  },
+  "istat": "65037",
+  "comune": "Cava de' Tirreni",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59b"
+  },
+  "istat": "65038",
+  "comune": "Celle di Bulgheria",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59c"
+  },
+  "istat": "65039",
+  "comune": "Centola",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59d"
+  },
+  "istat": "65040",
+  "comune": "Ceraso",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59e"
+  },
+  "istat": "65041",
+  "comune": "Cetara",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e59f"
+  },
+  "istat": "65042",
+  "comune": "Cicerale",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a0"
+  },
+  "istat": "65043",
+  "comune": "Colliano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a1"
+  },
+  "istat": "65044",
+  "comune": "Conca dei Marini",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a2"
+  },
+  "istat": "65045",
+  "comune": "Controne",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a3"
+  },
+  "istat": "65046",
+  "comune": "Contursi Terme",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a4"
+  },
+  "istat": "65047",
+  "comune": "Corbara",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a5"
+  },
+  "istat": "65048",
+  "comune": "Corleto Monforte",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a6"
+  },
+  "istat": "65049",
+  "comune": "Cuccaro Vetere",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a7"
+  },
+  "istat": "65050",
+  "comune": "Eboli",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a8"
+  },
+  "istat": "65051",
+  "comune": "Felitto",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5a9"
+  },
+  "istat": "65052",
+  "comune": "Fisciano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5aa"
+  },
+  "istat": "65053",
+  "comune": "Furore",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ab"
+  },
+  "istat": "65054",
+  "comune": "Futani",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ac"
+  },
+  "istat": "65055",
+  "comune": "Giffoni Sei Casali",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ad"
+  },
+  "istat": "65056",
+  "comune": "Giffoni Valle Piana",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ae"
+  },
+  "istat": "65057",
+  "comune": "Gioi",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5af"
+  },
+  "istat": "65058",
+  "comune": "Giungano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b0"
+  },
+  "istat": "65059",
+  "comune": "Ispani",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b1"
+  },
+  "istat": "65060",
+  "comune": "Laureana Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b2"
+  },
+  "istat": "65061",
+  "comune": "Laurino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b3"
+  },
+  "istat": "65062",
+  "comune": "Laurito",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b4"
+  },
+  "istat": "65063",
+  "comune": "Laviano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b5"
+  },
+  "istat": "65064",
+  "comune": "Lustra",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b6"
+  },
+  "istat": "65065",
+  "comune": "Magliano Vetere",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b7"
+  },
+  "istat": "65066",
+  "comune": "Maiori",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b8"
+  },
+  "istat": "65067",
+  "comune": "Mercato San Severino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5b9"
+  },
+  "istat": "65068",
+  "comune": "Minori",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ba"
+  },
+  "istat": "65069",
+  "comune": "Moio della Civitella",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5bb"
+  },
+  "istat": "65070",
+  "comune": "Montano Antilia",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5bc"
+  },
+  "istat": "65071",
+  "comune": "Montecorice",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5bd"
+  },
+  "istat": "65072",
+  "comune": "Montecorvino Pugliano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5be"
+  },
+  "istat": "65073",
+  "comune": "Montecorvino Rovella",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5bf"
+  },
+  "istat": "65074",
+  "comune": "Monteforte Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c0"
+  },
+  "istat": "65075",
+  "comune": "Monte San Giacomo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c1"
+  },
+  "istat": "65076",
+  "comune": "Montesano sulla Marcellana",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c2"
+  },
+  "istat": "65077",
+  "comune": "Morigerati",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c3"
+  },
+  "istat": "65078",
+  "comune": "Nocera Inferiore",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c4"
+  },
+  "istat": "65079",
+  "comune": "Nocera Superiore",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c5"
+  },
+  "istat": "65080",
+  "comune": "Novi Velia",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c6"
+  },
+  "istat": "65081",
+  "comune": "Ogliastro Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c7"
+  },
+  "istat": "65082",
+  "comune": "Olevano sul Tusciano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c8"
+  },
+  "istat": "65083",
+  "comune": "Oliveto Citra",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5c9"
+  },
+  "istat": "65084",
+  "comune": "Omignano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ca"
+  },
+  "istat": "65085",
+  "comune": "Orria",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5cb"
+  },
+  "istat": "65086",
+  "comune": "Ottati",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5cc"
+  },
+  "istat": "65087",
+  "comune": "Padula",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5cd"
+  },
+  "istat": "65088",
+  "comune": "Pagani",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ce"
+  },
+  "istat": "65089",
+  "comune": "Palomonte",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5cf"
+  },
+  "istat": "65090",
+  "comune": "Pellezzano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d0"
+  },
+  "istat": "65091",
+  "comune": "Perdifumo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d1"
+  },
+  "istat": "65092",
+  "comune": "Perito",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d2"
+  },
+  "istat": "65093",
+  "comune": "Pertosa",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d3"
+  },
+  "istat": "65094",
+  "comune": "Petina",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d4"
+  },
+  "istat": "65095",
+  "comune": "Piaggine",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d5"
+  },
+  "istat": "65096",
+  "comune": "Pisciotta",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d6"
+  },
+  "istat": "65097",
+  "comune": "Polla",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d7"
+  },
+  "istat": "65098",
+  "comune": "Pollica",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d8"
+  },
+  "istat": "65099",
+  "comune": "Pontecagnano Faiano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5d9"
+  },
+  "istat": "65100",
+  "comune": "Positano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5da"
+  },
+  "istat": "65101",
+  "comune": "Postiglione",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5db"
+  },
+  "istat": "65102",
+  "comune": "Praiano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5dc"
+  },
+  "istat": "65103",
+  "comune": "Prignano Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5dd"
+  },
+  "istat": "65104",
+  "comune": "Ravello",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5de"
+  },
+  "istat": "65105",
+  "comune": "Ricigliano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5df"
+  },
+  "istat": "65106",
+  "comune": "Roccadaspide",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e0"
+  },
+  "istat": "65107",
+  "comune": "Roccagloriosa",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e1"
+  },
+  "istat": "65108",
+  "comune": "Roccapiemonte",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e2"
+  },
+  "istat": "65109",
+  "comune": "Rofrano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e3"
+  },
+  "istat": "65110",
+  "comune": "Romagnano al Monte",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e4"
+  },
+  "istat": "65111",
+  "comune": "Roscigno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e5"
+  },
+  "istat": "65112",
+  "comune": "Rutino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e6"
+  },
+  "istat": "65113",
+  "comune": "Sacco",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e7"
+  },
+  "istat": "65114",
+  "comune": "Sala Consilina",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e8"
+  },
+  "istat": "65115",
+  "comune": "Salento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5e9"
+  },
+  "istat": "65116",
+  "comune": "Salerno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ea"
+  },
+  "istat": "65117",
+  "comune": "Salvitelle",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5eb"
+  },
+  "istat": "65118",
+  "comune": "San Cipriano Picentino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ec"
+  },
+  "istat": "65119",
+  "comune": "San Giovanni a Piro",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ed"
+  },
+  "istat": "65120",
+  "comune": "San Gregorio Magno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ee"
+  },
+  "istat": "65121",
+  "comune": "San Mango Piemonte",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ef"
+  },
+  "istat": "65122",
+  "comune": "San Marzano sul Sarno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f0"
+  },
+  "istat": "65123",
+  "comune": "San Mauro Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f1"
+  },
+  "istat": "65124",
+  "comune": "San Mauro La Bruca",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f2"
+  },
+  "istat": "65125",
+  "comune": "San Pietro al Tanagro",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f3"
+  },
+  "istat": "65126",
+  "comune": "San Rufo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f4"
+  },
+  "istat": "65127",
+  "comune": "Santa Marina",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f5"
+  },
+  "istat": "65128",
+  "comune": "Sant'Angelo a Fasanella",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f6"
+  },
+  "istat": "65129",
+  "comune": "Sant'Arsenio",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f7"
+  },
+  "istat": "65130",
+  "comune": "Sant'Egidio del Monte Albino",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f8"
+  },
+  "istat": "65131",
+  "comune": "Santomenna",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5f9"
+  },
+  "istat": "65132",
+  "comune": "San Valentino Torio",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5fa"
+  },
+  "istat": "65133",
+  "comune": "Sanza",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5fb"
+  },
+  "istat": "65134",
+  "comune": "Sapri",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5fc"
+  },
+  "istat": "65135",
+  "comune": "Sarno",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5fd"
+  },
+  "istat": "65136",
+  "comune": "Sassano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5fe"
+  },
+  "istat": "65137",
+  "comune": "Scafati",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e5ff"
+  },
+  "istat": "65138",
+  "comune": "Scala",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e600"
+  },
+  "istat": "65139",
+  "comune": "Serramezzana",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e601"
+  },
+  "istat": "65140",
+  "comune": "Serre",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e602"
+  },
+  "istat": "65141",
+  "comune": "Sessa Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e603"
+  },
+  "istat": "65142",
+  "comune": "Siano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e604"
+  },
+  "istat": "65143",
+  "comune": "Sicignano degli Alburni",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e605"
+  },
+  "istat": "65144",
+  "comune": "Stella Cilento",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e606"
+  },
+  "istat": "65145",
+  "comune": "Stio",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e607"
+  },
+  "istat": "65146",
+  "comune": "Teggiano",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e608"
+  },
+  "istat": "65147",
+  "comune": "Torchiara",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e609"
+  },
+  "istat": "65148",
+  "comune": "Torraca",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60a"
+  },
+  "istat": "65149",
+  "comune": "Torre Orsaia",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60b"
+  },
+  "istat": "65150",
+  "comune": "Tortorella",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60c"
+  },
+  "istat": "65151",
+  "comune": "Tramonti",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60d"
+  },
+  "istat": "65152",
+  "comune": "Trentinara",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60e"
+  },
+  "istat": "65153",
+  "comune": "Valle dell'Angelo",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e60f"
+  },
+  "istat": "65154",
+  "comune": "Vallo della Lucania",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e610"
+  },
+  "istat": "65155",
+  "comune": "Valva",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e611"
+  },
+  "istat": "65156",
+  "comune": "Vibonati",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e612"
+  },
+  "istat": "65157",
+  "comune": "Vietri sul Mare",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+},{
+  "_id": {
+    "$oid": "60b49fb0658076478ce5e613"
+  },
+  "istat": "65158",
+  "comune": "Bellizzi",
+  "regione": "Campania",
+  "provincia": "SA",
+  "latitudine": "",
+  "longitudine": ""
+}]
