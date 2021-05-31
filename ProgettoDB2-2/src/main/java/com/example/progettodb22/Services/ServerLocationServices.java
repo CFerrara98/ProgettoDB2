@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface ServerLocationServices {
     ServerLocation getLocation(String ipAddress);
-    List<Biblioteca> getBibliotecheNearIp(Double Longitudine, Double Latitudine);
+    List<Biblioteca> getBibliotecheNearCoordinates(Double Longitudine, Double Latitudine, Double distance);
 }

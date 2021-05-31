@@ -73,4 +73,17 @@ public class Città {
     public void setLongitudine(Double longitudine) {
         this.longitudine = longitudine;
     }
+
+    @Override
+    public String toString() {
+        return "Città{" +
+                "id='" + id + '\'' +
+                ", istat='" + istat + '\'' +
+                ", comune='" + comune + '\'' +
+                ", provincia='" + provincia + '\'' +
+                ", regione='" + regione + '\'' +
+                ", latitudine=" + latitudine +
+                ", longitudine=" + longitudine +
+                '}';
+    }
 }

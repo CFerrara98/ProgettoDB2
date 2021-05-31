@@ -78,12 +78,12 @@ public class ServerLocationServicesImpl implements ServerLocationServices {
     }
 
     @Override
-    public List<Biblioteca> getBibliotecheNearIp(Double Longitudine, Double Latitudine) {
+    public List<Biblioteca> getBibliotecheNearCoordinates(Double Longitudine, Double Latitudine, Double distance) {
         System.out.println(Longitudine + "," +Latitudine);
 
 
         Point pos = new Point(Longitudine, Latitudine);
-        Distance dis = new Distance(1, Metrics.KILOMETERS);
+        Distance dis = new Distance(distance, Metrics.KILOMETERS);
 
         List<Biblioteca> biblioteche = bibliotecaRepository.findByLocationNear(pos, dis);
         return biblioteche;

@@ -1,3 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <html>
 <head>
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
@@ -34,20 +37,56 @@
                     <h4 class="h4-spazio">
                         <span class="my-4 header">Progetto database 2 Ferrara Spinelli</span>
                     </h4>
-                    <div>
-                        <div class="input-group mb-3" style="max-width: 30%">
-                            <input style="width:fit-content" class="form-control" type="text" placeholder="0.0.0.0" id="ipInput" value="">
-                            <div class="input-group-append">
-                                <button id="reg" type="button" class="btn btn-info  btn-block" style="max-width: fit-content">Search</button>
+                    <div class="row row-cols-2">
+                        <div class = "col-9">
+                            <div>
+                                <div class="input-group mb-3" style="max-width: 40%">
+                                    <input style="width:fit-content" class="form-control" type="text" placeholder="0.0.0.0" id="ipInput" value="">
+                                    <div class="input-group-append">
+                                        <button id="reg" type="button" class="btn btn-info  btn-block" style="max-width: fit-content">Search</button>
+                                    </div>
+                                </div>
+                                <br/>
+
+                                <div class="input-group mb-3" style="max-width: 40%">
+
+                                    <select class="form-select" aria-label="Default select example" id = "comuneSelect" >
+                                        <c:forEach items="${comuni}" var="comune" varStatus="loop">
+                                            <option value="${comune.getComune()}">${comune.getComune()}</option>
+                                        </c:forEach>
+                                    </select>
+
+
+
+
+                                    <div class="input-group-append">
+                                        <button id="reg1" type="button" class="btn btn-info  btn-block" style="max-width: fit-content">Search</button>
+                                    </div>
+                                </div>
+                                <br/>
+                                <h5 for="myDistance" class="form-label">Itervallo di distanza 1-20 km - step 1</h5>
+                                <h5 id = "myDistanceSelected">Distanza attuale: 1 km</h5>
+
+                                <input type="range" class="form-range" value="1" min="1" max="20" step="1" id="myDistance">
+
+
+                            </div>
+                            <div id="result"></div>
+                            <br/>
+                            <div style="width:80%;background-color:#ffffff;height:150%" id="map">
+
                             </div>
                         </div>
-                        <br/>
 
+                        <div class = "col-3" style="color: #1d2124">
+                           <p id = "intestazioneBiblioteche"></p>
+                            <div class="overflow-auto" style="height: 200px; width: 100%;">
+                                <ul id = "listaBiblioteche"></ul>
+                            </div>
+
+                        </div>
                     </div>
-                        <br/>
-                        <div id="result"></div>
-                        <br/>
-                        <div style="width:60%;background-color:#ffffff;height:60%" id="map"></div>
+
 
                 </div>
             </div>
@@ -66,10 +105,45 @@
 <script>
     $(document).ready(function() {
 
+        $('#myDistance').change(function(){
+            $('#myDistanceSelected').text("Distanza attuale: " + $('#myDistance').val() + " km");
+        })
+
+        $("#reg1").click(function() {
+            $.getJSON("${pageContext.request.contextPath}/getLocationByComune",
+                {
+                    comune : $('#comuneSelect').val(),
+                    distance : $('#myDistance').val()
+                },
+                function(data) {
+
+                    var data = JSON.stringify(data);
+                    var json = JSON.parse(data);
+                    var myCity = json[0];
+                    var biblioteche = json[1];
+
+                    showMap(myCity["latitudine"],myCity["longitudine"], biblioteche);
+
+                    $("#intestazioneBiblioteche").text("Biblioteche vicino al comune: " + $('#comuneSelect').val());
+                    $("#listaBiblioteche").text("");
+                    biblioteche.forEach(addBiblioteca);
+
+
+                })
+                .done(function() {
+                })
+                .fail(function() {
+                })
+                .complete(function() {
+                });
+
+        });
+
         $("#reg").click(function() {
             $.getJSON("${pageContext.request.contextPath}/getLocationByIpAddress",
                 {
-                    ipAddress : $('#ipInput').val()
+                    ipAddress : $('#ipInput').val(),
+                    distance : $('#myDistance').val()
                 },
                 function(data) {
 
@@ -78,6 +152,9 @@
                     var myPosition = json[0];
                     var biblioteche = json[1];
 
+                    $("#intestazioneBiblioteche").text("Biblioteche vicino ad IP: " + $('#ipInput').val());
+                    $("#listaBiblioteche").text("");
+                    biblioteche.forEach(addBiblioteca);
 
                     showMap(myPosition["latitude"],myPosition["longitude"], biblioteche)
 
@@ -143,6 +220,10 @@
             var marker = new google.maps.Marker(markerOptions);
         }
 
+        function addBiblioteca(item, index) {
+            console.log(item);
+            $('#listaBiblioteche').append("<li>" + item['denominazione'] + " - " + item['indirizzo'] +  " - " + item['comune'] + "</li>") ;
+        }
     });
 </script>
 <br/>

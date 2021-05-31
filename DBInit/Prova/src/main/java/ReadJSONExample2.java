@@ -40,8 +40,8 @@ public class ReadJSONExample2
                 JSONObject cityObj = (JSONObject) city;
 
                 if(cityObj.get("latitudine").equals("") || cityObj.get("longitudine").equals("")){
-                    cityObj.put("latitudine", "non disponibile");
-                    cityObj.put("longitudine", "non disponibile");
+                    cityObj.put("latitudine", -1);
+                    cityObj.put("longitudine", -1);
                 }
             });
 
