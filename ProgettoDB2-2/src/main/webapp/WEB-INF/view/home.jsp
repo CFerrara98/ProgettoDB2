@@ -44,7 +44,7 @@
 					<div class="container">
 
 						<h4 class="h4-spazio">
-							<span class="my-4 header">Progetto database 2 Ferrara Spinelli</span>
+							<span class="my-4 header">Library-Info-Finder</span>
 						</h4>
 						<img src="http://avante.biz/wp-content/uploads/Library-Backgrounds/Library-Backgrounds-008.jpg" class="img-fluid rounded" alt="Responsive image">
 					</div>

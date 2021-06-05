@@ -105,11 +105,33 @@
 <script>
     $(document).ready(function() {
 
+        var ipSelected = false, comuneSelected = false;
+
         $('#myDistance').change(function(){
             $('#myDistanceSelected').text("Distanza attuale: " + $('#myDistance').val() + " km");
+
+            if(comuneSelected && !ipSelected) comuneRequest();
+            else if (ipSelected && ! comuneSelected) ipRequest();
         })
 
         $("#reg1").click(function() {
+            comuneSelected = true;
+            ipSelected = false;
+            comuneRequest();
+
+        });
+
+        $("#reg").click(function() {
+            if($('#ipInput').val() != ""){
+                comuneSelected = false;
+                ipSelected = true;
+                ipRequest();
+            }
+        });
+
+        var map;
+
+        function comuneRequest (){
             $.getJSON("${pageContext.request.contextPath}/getLocationByComune",
                 {
                     comune : $('#comuneSelect').val(),
@@ -129,17 +151,10 @@
                     biblioteche.forEach(addBiblioteca);
 
 
-                })
-                .done(function() {
-                })
-                .fail(function() {
-                })
-                .complete(function() {
                 });
+        }
 
-        });
-
-        $("#reg").click(function() {
+        function ipRequest(){
             $.getJSON("${pageContext.request.contextPath}/getLocationByIpAddress",
                 {
                     ipAddress : $('#ipInput').val(),
@@ -160,17 +175,9 @@
 
                     //$("#result").html(data)
 
-                })
-                .done(function() {
-                })
-                .fail(function() {
-                })
-                .complete(function() {
                 });
+        }
 
-        });
-
-        var map;
 
         function showMap(latitude,longitude, biblioteche) {
 
@@ -221,7 +228,6 @@
         }
 
         function addBiblioteca(item, index) {
-            console.log(item);
             $('#listaBiblioteche').append("<li>" + item['denominazione'] + " - " + item['indirizzo'] +  " - " + item['comune'] + "</li>") ;
         }
     });

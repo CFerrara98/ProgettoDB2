@@ -125,7 +125,7 @@
 
 								</div>
 
-									<button type="submit" id="reg" class="btn btn-info btn-block" style="margin: 25px 0 15px 45px">Inserisci</button>
+									<button type="submit" id="reg" class="btn btn-info btn-block" style="margin: 25px 0 15px 45px">Cerca</button>
 								</div>
 
 
