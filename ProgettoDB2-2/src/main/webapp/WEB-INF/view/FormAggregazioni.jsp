@@ -94,7 +94,7 @@
                                     <select class="form-control" aria-label=".form-select-lg example" name="MatchOperation" id="MatchingSelect">
                                         <option selected value="NessunMatching">Nessun matching</option>
                                         <option value="GratherThan"> Taglia valori minori di...</option>
-                                        <option value="LessThan"> Taglia varoli maggiori di...</option>
+                                        <option value="LessThan"> Taglia valori maggiori di...</option>
                                         <option value="ValoriRange"> Taglia valori esterni ad un range</option>
                                     </select>
                                     <br/>
